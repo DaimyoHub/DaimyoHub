@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello !
 
-<!--
-**DaimyoHub/DaimyoHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I like
 
-Here are some ideas to get you started:
+- I'm currently studying computer science and maths
+- I'm mainly interested in the formal study of programming languages and theoretical computing
+- I like to study formal system such as lambda-calculus or first-order logic
+- I also like algorithmics, C++, Ocaml and norwegian folk songs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My goals
+
+- I'd like to learn a lot about theoretical computing and language theory
+- After my studies, I'd like to do research in programming languages
+- I'd like to develop my own toolchain
