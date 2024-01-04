@@ -1,15 +1,9 @@
-### What I like
+### About me
 
-- Studying computer science and maths
-- Interested in the formal study of programming languages and theoretical computing
-- Like to study formal system such as lambda-calculus or first-order logic
-- Like functionnal programming, algorithmics, C++, Ocaml and norwegian folk songs
-
-### My goals
-
-- I'd like to learn a lot about theoretical computing and language theory
-- After my studies, I'd like to do research in programming languages
-- I'd like to develop my own toolchain
+- I am currently studying mathematics, physics and computer science in a french CPGE (intensive courses
+that prepare you for entrance exams to Grandes Ecoles).
+- I am interested in the study of mathematical logic and theoretical computing.
+- I would like to do research in the domain of programming language.
 
 ### Contacts & references
 
