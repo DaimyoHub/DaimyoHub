@@ -2,7 +2,7 @@
 
 - I am currently studying mathematics, physics and computer science in a french CPGE (intensive courses
 that prepare you for entrance exams to Grandes Ecoles).
-- I am interested in the study of mathematical logic and theoretical computing.
+- I am interested in the domain of mathematical logic and theoretical computing.
 - I would like to do research in the domain of programming language.
 
 ### Contacts & references
