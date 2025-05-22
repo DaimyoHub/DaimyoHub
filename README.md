@@ -1,7 +1,7 @@
 ### About me
 
 I'm studying theoretical computer science at the Paris-Saclay University. I'm focussing
-on formal semantics and theoretical aspects of programming languages.
+on formal methods and every aspects of programming languages.
 
 ### Contacts & references
 
