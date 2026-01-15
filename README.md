@@ -1,5 +1,5 @@
 I'm studying theoretical computer science and I'm interested in the Curry-Howard_lambdek correspondance.
-Here is my (https://daimyohub.github.io/hina-blog/)[personal web page].
+Here is my [personal web page](https://daimyohub.github.io/hina-blog/).
 
 ### Contacts & references
 
